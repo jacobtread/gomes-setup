@@ -1,0 +1,4 @@
+github.com/jacobtread/gelv v0.0.0-20220307232334-48f0a7f0ab40 h1:wzCpord100Rf2Yvh0PEt+piu4QdLzchvt8gkanKF1ds=
+github.com/jacobtread/gelv v0.0.0-20220307232334-48f0a7f0ab40/go.mod h1:PXUtGnGJeiZrHPAnHdxzPDGSopokLNf6awo6DJkRlIU=
+golang.org/x/sys v0.0.0-20220307203707-22a9840ba4d7 h1:8IVLkfbr2cLhv0a/vKq4UFUcJym8RmDoDboxCFWEjYE=
+golang.org/x/sys v0.0.0-20220307203707-22a9840ba4d7/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
